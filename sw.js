@@ -5,8 +5,7 @@ const urlsToCache = [
   '/',
   '/index.html',
   '/icon.png',
-  '/manifest.json',
-  '/sw.js'
+  '/manifest.json'
 ];
 
 // 1. インストールイベント (Service Worker登録時に実行)
