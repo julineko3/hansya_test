@@ -4,8 +4,7 @@ const CACHE_NAME = 'logical-quest-v1';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/icon.png',
-  '/manifest.json'
+  '/icon.png'
 ];
 
 // 1. インストールイベント (Service Worker登録時に実行)
