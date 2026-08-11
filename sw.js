@@ -3,8 +3,8 @@ const CACHE_NAME = 'logical-quest-v1';
 // service-worker.jsファイルからの相対パスで指定
 const urlsToCache = [
   '/',
-  '/index.html',
-  '/icon.png'
+  'index.html',
+  'icon.png'
 ];
 
 // 1. インストールイベント (Service Worker登録時に実行)
