@@ -2,12 +2,12 @@
   "name": "反射神経鍛錬1",
   "short_name": "反射神経鍛錬1",
   "description": "反射神経鍛錬1",
+  "developer": "Kunito Kanome",
   "icons": [
     {
       "src": "icon.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "author": "Kunito Kanome"
+      "type": "image/png"
     }
   ],
   "start_url": "index.html",
