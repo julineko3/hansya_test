@@ -7,6 +7,7 @@
       "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png"
+      "author": "Kunito Kanome"
     }
   ],
   "start_url": "index.html",
